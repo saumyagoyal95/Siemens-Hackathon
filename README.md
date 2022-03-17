@@ -2,7 +2,6 @@
 
 # Siemens Hackathon - Women Hack AI
 
-###  Add image/logo here
 <img src='https://github.com/saumyagoyal95/Siemens-Hackathon/blob/2add5e4cb19d624e573a675cfbbd849332bd43a0/Title.png' width=500px> <br>
 source : https://www.womenhackai.com <br>
 
