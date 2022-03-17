@@ -46,12 +46,12 @@ In the BNL countries, the people are the most interested in the ads/topics.
 2. What is the optimum number of advertisements per campaign with efficient cost per lead?
 
 - upon feature engineering - found that 10-15 advertisements shows the best performance
-<img src='https://github.com/saumyagoyal95/Siemens-Hackathon/blob/bf61a7c83d84765d0715d7b43aeb3d035c0c36e9/finding1.png' width=350px> <br>
+<img src='https://github.com/saumyagoyal95/Siemens-Hackathon/blob/6a55ae4378a2bf9ccb1b64c8767bf32bc7fb22c4/Findings2.png' width=350px> <br>
 In the BNL countries, the people are the most interested in the ads/topics.
 
 3. Should the company pay for impression (CPM) or clicks (CPC)?
 
 - Depending on the average cost per lead for getting clicks and impression it was evident from the data that getting clicks was more cost efficient in Italy and NDC region.
 
-<img src='https://github.com/saumyagoyal95/Siemens-Hackathon/blob/bf61a7c83d84765d0715d7b43aeb3d035c0c36e9/finding1.png' width=350px> <br>
+<img src='https://github.com/saumyagoyal95/Siemens-Hackathon/blob/6a55ae4378a2bf9ccb1b64c8767bf32bc7fb22c4/Finding3.png' width=350px> <br>
 
